@@ -1,0 +1,5 @@
+print("I am Heather John Quinao.")
+print("My spirit animal is Cat.")
+print("because its cute.)
+print("When not in school, I love to Watching Anime.")
+print("I dream of being a/an Teacher in the future.")
