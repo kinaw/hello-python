@@ -1,3 +1,4 @@
-print = ("Gwapo Ako")
+print ("Gwapo Ako")
 print("I am Heather")
-print("Gwapo Si KInaw")
+print("My name is {}. I am {} y/o" \
+.format("Heather",16))
