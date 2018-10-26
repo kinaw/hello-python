@@ -1,6 +1,0 @@
-data = {"name" : "Heather John"}
-        "age" : 16,
-        "weight" : 45.46
-        }
-
-print(data)
